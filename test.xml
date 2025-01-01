@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>row1</index>
+    <col1>a</col1>
+    <col2>b</col2>
+  </row>
+  <row>
+    <index>row2</index>
+    <col1>c</col1>
+    <col2>d</col2>
+  </row>
+</data>
